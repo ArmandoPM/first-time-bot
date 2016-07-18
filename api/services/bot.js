@@ -1,6 +1,6 @@
 var TelegramBot = require('node-telegram-bot-api');
 
-var token = '261883188:AAGYAxFfu308b00F6ZBdH8i5kq-LBxmyxcE';
+var token = 'AQUI VA TU HASH!!! DE TELEGRAM';
 
 var bot = new TelegramBot(
     token, {
